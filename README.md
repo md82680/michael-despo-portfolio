@@ -172,5 +172,5 @@ Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
 # Notice:
 
-Free free to fork, use and maintain your own version. 
+Free free to fork, use, and maintain your own version. 
 
