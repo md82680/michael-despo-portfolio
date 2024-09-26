@@ -126,7 +126,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering role with an open mind towards an internship! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm actively seeking a full-time Software Engineering role but am open to internships. Feel free to reach out if you have opportunities, questions, or just want to connect at",
   email: "mdespo@gmail.com",
 };
 
