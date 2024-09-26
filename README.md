@@ -7,10 +7,10 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://michael-despo-portfolio.vercel.app">https://michael-despo-portfolio.vercel.app/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://michael-despo-portfolio.vercel.app">About Me</a>
   </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 # About the project
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://michael-despo-portfolio.vercel.app)
 
 
 ## Technology stack 🛠️
