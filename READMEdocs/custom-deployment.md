@@ -18,7 +18,7 @@
 
 7. Now, create a new empty repository named \<your-username>.github.io and leave it there.
 8. Now you need to go to [pages.js](../pages.js#L3)
-   There you must change the 3rd line. As it the the url of your empty repository:
+   There you must change the 3rd line. As it is the the url of your empty repository:
 
    ```js
    const repoURL =
@@ -38,4 +38,3 @@
       https://<your-username>.github.io
     ```
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
