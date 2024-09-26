@@ -16,8 +16,8 @@ import Project from "./components/home/Project";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Skills from "./components/home/Skills";
-// import { Blog } from "./components/blog/Blog";
-// import BlogPost from "./components/blog/BlogPost";
+//import { Blog } from "./components/blog/Blog";
+//import BlogPost from "./components/blog/BlogPost";
 import GetInTouch from "./components/home/GetInTouch.jsx";
 import Leadership from "./components/home/Leadership.jsx";
 
@@ -79,7 +79,7 @@ const App = () => {
   const titleRef = React.useRef();
 
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL + "/"}>
+    <BrowserRouter basename={process.env.PUBLIC_URL || "/"}>
       {navBar.show && <Navbar ref={titleRef} />}
       <Routes>
         <Route path="/" exact element={<Home ref={titleRef} />} />
