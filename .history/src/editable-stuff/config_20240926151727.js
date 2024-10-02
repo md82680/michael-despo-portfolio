@@ -27,7 +27,7 @@ const mainBody = {
     },*/
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/michaeldespo/",
+      url: "https://www.linkedin.com/in/michael-despo-a14372a/",
     },
     /*{
       image: "fa-twitter",
