@@ -64,7 +64,7 @@ const about = {
       program, I’ve continued my relentless drive for problem-solving, continuous growth, and delivering innovative solutions that make an impact. With my diverse
       professional background and technical expertise, I am fully prepared to contribute as a full stack developer and tackle complex challenges.
     </span>
-  ),
+  ),,
   resume:
     "https://drive.google.com/file/d/1Zos3JcGNrDri5a0xOa2R3XYqlpM4d0DX/view?usp=sharing",
 };

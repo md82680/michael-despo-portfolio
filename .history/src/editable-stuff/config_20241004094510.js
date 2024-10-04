@@ -55,16 +55,10 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/michaeldespo.png"),
   imageSize: 375,
-  message: (
-    <span>
-      I'm Michael Despo, a dedicated full stack developer eager to bring my passion for technology to new challenges and opportunities. Recently completing{' '}
-      <a href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f" target="_blank" rel="noopener noreferrer">
-        MIT's Professional Full Stack Development with MERN
-      </a>{' '}
-      program, I’ve continued my relentless drive for problem-solving, continuous growth, and delivering innovative solutions that make an impact. With my diverse
-      professional background and technical expertise, I am fully prepared to contribute as a full stack developer and tackle complex challenges.
-    </span>
-  ),
+  message:
+    "`I'm Michael Despo, a dedicated full stack developer eager to bring my passion for technology to new challenges and opportunities. Recently completing 
+  <a href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f" target="_blank">MIT's Professional Full Stack Development with MERN</a> program, 
+  I’ve continued my relentless drive for problem-solving, continuous growth, and delivering innovative solutions that make an impact. With my diverse professional background and technical expertise, I am fully prepared to contribute as a full stack developer and tackle complex challenges.",
   resume:
     "https://drive.google.com/file/d/1Zos3JcGNrDri5a0xOa2R3XYqlpM4d0DX/view?usp=sharing",
 };
