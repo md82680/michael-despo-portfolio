@@ -115,15 +115,10 @@ const skills = {
     { name: "Express", value: 20 },
     { name: "Next.js", value: 10 },
     { name: "MongoDB", value: 20 },
-    { name: "PostgreSQL", value: 20 },
-    { name: "Strapi", value: 20 },
+    
     { name: "JavaScript", value: 25 },
     { name: "React", value: 25 },
     { name: "HTML/CSS", value: 45 },
-    { name: "Tailwind", value: 20 },
-    { name: "Bootstrap", value: 20 },
-    { name: "Vercel", value: 20 },
-    { name: "Firebase", value: 20 },
     { name: "Data Structures and Algorithms", value: 5 },
   ],
   softSkills: [
