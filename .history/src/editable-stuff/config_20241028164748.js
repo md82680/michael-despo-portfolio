@@ -122,7 +122,7 @@ const skills = {
     { name: "HTML/CSS", value: 45 },
     { name: "Tailwind", value: 20 },
     { name: "Bootstrap", value: 20 },
-    { name: "Vercel", value: 40 },
+    { name: "Vercel", value: 0 },
     { name: "Firebase", value: 20 },
     { name: "Data Structures and Algorithms", value: 25 },
   ],
