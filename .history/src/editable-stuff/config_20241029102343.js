@@ -111,25 +111,25 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
+    { name: "Node.js", value: 20 },
+    { name: "Express", value: 20 },
+    { name: "Next.js", value: 30 },
+    { name: "MongoDB", value: 20 },
+    { name: "PostgreSQL", value: 30 },
+    { name: "Strapi", value: 20 },
     { name: "JavaScript", value: 35 },
     { name: "React", value: 35 },
     { name: "HTML/CSS", value: 45 },
     { name: "Tailwind", value: 20 },
     { name: "Bootstrap", value: 20 },
-    { name: "Node.js", value: 20 },
-    { name: "Express", value: 20 },
-    { name: "Next.js", value: 30 },
-    { name: "MongoDB", value: 20 },
-    { name: "PostgreSQL", value: 20 },
     { name: "Vercel", value: 40 },
-    { name: "Data Structures and Algorithms", value: 35 },
+    { name: "Firebase", value: 20 },
+    { name: "Data Structures and Algorithms", value: 25 },
   ],
   softSkills: [
-    { name: "Project Management", value: 95 },
-    { name: "Agile Frameworks/Delivery", value: 75 },
-    { name: "IT Implementations", value: 90 },
-    { name: "Business Requirements", value: 90 },
+    { name: "Goal-Oriented", value: 80 },
     { name: "Leadership", value: 90 },
+    { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 90 },
     { name: "Organization", value: 75 },
     { name: "Analytical", value: 90 },
@@ -145,6 +145,7 @@ const getInTouch = {
   email: "mdespo@gmail.com",
 };
 
+/*
 const experiences = {
   show: false,
   heading: "Experiences",

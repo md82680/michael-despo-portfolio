@@ -47,8 +47,7 @@ const Home = React.forwardRef((props, ref) => {
         experiences.show && (
           <Experience experiences={experiences}/>
         )
-      */}
-      
+      }
       {repos.show && (
         <Project
           heading={repos.heading}
@@ -56,7 +55,7 @@ const Home = React.forwardRef((props, ref) => {
           length={repos.reposLength}
           specfic={repos.specificRepos}
         />
-      )}
+      )*/}
       {leadership.show && (
         <Leadership
           heading={leadership.heading}

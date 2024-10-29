@@ -125,10 +125,8 @@ const skills = {
     { name: "Data Structures and Algorithms", value: 35 },
   ],
   softSkills: [
-    { name: "Project Management", value: 95 },
-    { name: "Agile Frameworks/Delivery", value: 75 },
-    { name: "IT Implementations", value: 90 },
-    { name: "Business Requirements", value: 90 },
+    { name: "Project Management", value: 80 },
+    { name: "Agile Frameworks", value: 85 },
     { name: "Leadership", value: 90 },
     { name: "Problem Solving", value: 90 },
     { name: "Organization", value: 75 },

@@ -126,7 +126,7 @@ const skills = {
   ],
   softSkills: [
     { name: "Project Management", value: 95 },
-    { name: "Agile Frameworks/Delivery", value: 75 },
+    { name: "Agile Frameworks/Del", value: 75 },
     { name: "IT Implementations", value: 90 },
     { name: "Business Requirements", value: 90 },
     { name: "Leadership", value: 90 },
