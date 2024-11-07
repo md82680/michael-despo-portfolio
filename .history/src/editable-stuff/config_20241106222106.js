@@ -55,10 +55,16 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/michaeldespo.png"),
   imageSize: 375,
-  message:
-    "`I'm Michael Despo, a dedicated full stack developer eager to bring my passion for technology to new challenges and opportunities. Recently completing 
-  <a href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f" target="_blank">MIT's Professional Full Stack Development with MERN</a> program, 
-  I’ve continued my relentless drive for problem-solving, continuous growth, and delivering innovative solutions that make an impact. With my diverse professional background and technical expertise, I am fully prepared to contribute as a full stack developer and tackle complex challenges.`",
+  message: (
+    <span>
+      I'm Michael Despo, a dedicated full stack developer eager to bring my passion for technology to new challenges and opportunities. Recently completing{' '}
+      <a href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f" target="_blank" rel="noopener noreferrer">
+        MIT's Professional Full Stack Development with MERN
+      </a>{' '}
+      program, I’ve continued my relentless drive for problem-solving, continuous growth, and delivering innovative solutions that make an impact. With my diverse
+      professional background and technical expertise, I am fully prepared to contribute as a full stack developer and tackle complex challenges.
+    </span>
+  ),
   resume:
     "https://drive.google.com/file/d/1Zos3JcGNrDri5a0xOa2R3XYqlpM4d0DX/view?usp=sharing",
 };
@@ -105,18 +111,26 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
+    { name: "JavaScript", value: 35 },
+    {name:}
+    { name: "React", value: 35 },
+    { name: "HTML/CSS", value: 45 },
+    { name: "Tailwind", value: 20 },
+    { name: "Bootstrap", value: 20 },
     { name: "Node.js", value: 20 },
     { name: "Express", value: 20 },
-    { name: "Next.js", value: 10 },
-    { name: "JavaScript", value: 25 },
-    { name: "React", value: 25 },
-    { name: "HTML/CSS", value: 45 },
-    { name: "Data Structures and Algorithms", value: 5 },
+    { name: "Next.js", value: 30 },
+    { name: "MongoDB", value: 20 },
+    { name: "PostgreSQL", value: 20 },
+    { name: "Vercel", value: 40 },
+    { name: "Data Structures and Algorithms", value: 55 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
+    { name: "Project Management", value: 95 },
+    { name: "Agile Frameworks/Delivery", value: 75 },
+    { name: "IT Implementations", value: 90 },
+    { name: "Business Requirements", value: 90 },
     { name: "Leadership", value: 90 },
-    { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 90 },
     { name: "Organization", value: 75 },
     { name: "Analytical", value: 90 },
