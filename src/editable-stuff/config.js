@@ -75,7 +75,7 @@ const about = {
     </span>
   ),
   resume:
-    "https://https://drive.google.com/drive/folders/1gHLZuaNB87uuqNkllvGYtwZkK3Vib51m",
+    "https://drive.google.com/file/d/1b_TC30izf8hVkoqRtRDwEd2DXS2ALxOb/view?usp=drive_link",
 };
 
 // PROJECTS SECTION
