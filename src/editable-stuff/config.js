@@ -121,7 +121,7 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "JavaScript", value: 55 },
-    {name: "Python", value: 15},
+    {name: "Python", value: 35},
     { name: "React", value: 35 },
     { name: "HTML/CSS", value: 45 },
     { name: "Tailwind", value: 20 },
