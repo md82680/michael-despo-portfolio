@@ -133,7 +133,7 @@ const skills = {
     { name: "MongoDB", value: 20 },
     { name: "PostgreSQL", value: 35 },
     { name: "SQLite", value: 15 },
-    { name: "Git", value: 50 },
+    
     { name: "Vercel", value: 40 },
     { name: "Data Structures and Algorithms", value: 55 },
   ],
