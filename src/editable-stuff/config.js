@@ -121,7 +121,7 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "JavaScript", value: 55 },
-    { name: "Python", value: 55 },
+    { name: "Python", value: 65 },
     { name: "React", value: 45 },
     { name: "C", value: 28 },
     { name: "HTML/CSS", value: 45 },
@@ -132,7 +132,7 @@ const skills = {
     { name: "Next.js", value: 40 },
     { name: "MongoDB", value: 20 },
     { name: "PostgreSQL", value: 35 },
-    { name: "SQLite", value: 15 },
+    { name: "SQL", value: 40 },
     { name: "Git", value: 50 },
     { name: "Vercel", value: 40 },
     { name: "Data Structures and Algorithms", value: 55 },

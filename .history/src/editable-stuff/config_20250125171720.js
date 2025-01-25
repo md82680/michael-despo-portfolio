@@ -75,7 +75,7 @@ const about = {
     </span>
   ),
   resume:
-    "https://drive.google.com/file/d/1b_TC30izf8hVkoqRtRDwEd2DXS2ALxOb/view?usp=drive_link",
+    "https://drive.google.com/file/d/1tESfU1dZGs3hqaOW4RSPT74D514NpMfr/view?usp=drive_link",
 };
 
 // PROJECTS SECTION
@@ -121,9 +121,9 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "JavaScript", value: 55 },
-    { name: "Python", value: 55 },
+    { name: "Python", value: 65 },
     { name: "React", value: 45 },
-    { name: "C", value:  },
+    { name: "C", value: 28 },
     { name: "HTML/CSS", value: 45 },
     { name: "Tailwind", value: 20 },
     { name: "Bootstrap", value: 20 },
@@ -132,7 +132,8 @@ const skills = {
     { name: "Next.js", value: 40 },
     { name: "MongoDB", value: 20 },
     { name: "PostgreSQL", value: 35 },
-    { name: "SQLite", value: 15 },
+    { name: "SQL", value: 45 },
+    { name: "Git", value: 50 },
     { name: "Vercel", value: 40 },
     { name: "Data Structures and Algorithms", value: 55 },
   ],
