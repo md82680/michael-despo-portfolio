@@ -73,7 +73,7 @@ const about = {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Harvard's CS50 course - Introduction to Computer Science
+        Harvard's CS50 course
       </a>
       , I’ve continued my relentless drive for problem-solving, continuous
       growth, and delivering innovative solutions that make an impact. With my
