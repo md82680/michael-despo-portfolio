@@ -67,15 +67,23 @@ const about = {
       >
         MIT's Professional Full Stack Development with MERN
       </a>{" "}
-      program, I’ve continued my relentless drive for problem-solving,
-      continuous growth, and delivering innovative solutions that make an
-      impact. With my diverse professional background and technical expertise, I
-      am fully prepared to contribute as a full stack developer and tackle
-      complex challenges.
+      program and{" "}
+      <a
+        href="https://courses.edx.org/certificates/01e35ba2c4db4c43b80ec361453012e6"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Harvard's CS50 - Introduction to Computer Science
+      </a>
+      , I’ve continued my relentless drive for problem-solving, continuous
+      growth, and delivering innovative solutions that make an impact. With my
+      diverse professional background and technical expertise, I am fully
+      prepared to contribute my expertise as a senior project/program manager  as a full stack developer and tackle complex
+      challenges.
     </span>
   ),
   resume:
-    "https://drive.google.com/file/d/1tESfU1dZGs3hqaOW4RSPT74D514NpMfr/view?usp=drive_link",
+    "https://drive.google.com/file/d/1KgS1s0vG2wTu8myFiB6Y-ADcLECO4S1q/view?usp=drive_link",
 };
 
 // PROJECTS SECTION
@@ -132,7 +140,7 @@ const skills = {
     { name: "Next.js", value: 40 },
     { name: "MongoDB", value: 20 },
     { name: "PostgreSQL", value: 35 },
-    { name: "SQL", value: 45 },
+    { name: "SQL", value: 40 },
     { name: "Git", value: 50 },
     { name: "Vercel", value: 40 },
     { name: "Data Structures and Algorithms", value: 55 },

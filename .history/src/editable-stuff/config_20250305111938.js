@@ -67,18 +67,18 @@ const about = {
       >
         MIT's Professional Full Stack Development with MERN
       </a>{" "}
-      program and {" "}
+      program and{" "}
       <a
-        href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f"
+        href="https://courses.edx.org/certificates/01e35ba2c4db4c43b80ec361453012e6"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Harvard's CS50 course
+        Harvard's CS50 - Introduction to Computer Science
       </a>
-      , I’ve continued my relentless drive for problem-solving, continuous growth, and delivering innovative solutions that make an
-      impact. With my diverse professional background and technical expertise, I
-      am fully prepared to contribute as a full stack developer and tackle
-      complex challenges.
+      , I’ve continued my relentless drive for problem-solving, continuous
+      growth, and delivering innovative solutions that make an impact. With my
+      diverse professional background and technical expertise, I am fully
+      prepared to contribute my expertise as a senior project/program manager and as a full stack developer to tackle complex business challenges.
     </span>
   ),
   resume:
