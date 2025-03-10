@@ -57,9 +57,9 @@ const about = {
   imageSize: 375,
   message: (
     <span>
-      I'm Michael Despo, a dedicated full stack developer with a strong passion
-      for technology and problem-solving, eager to bring my skills to new
-      challenges and opportunities. Having recently completed{" "}
+      I'm Michael Despo, a dedicated full stack developer and aspiring data scientist eager to bring my
+      passion for technology to new challenges and opportunities. Recently
+      completing{" "}
       <a
         href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f"
         target="_blank"
@@ -75,19 +75,10 @@ const about = {
       >
         Harvard's CS50 - Introduction to Computer Science
       </a>
-      , I’ve built a solid foundation in software development while continuously
-      expanding my technical expertise. My journey in tech is further enriched
-      by my admission to UC Berkeley’s Master of Information and Data Science
-      (MIDS) program, beginning in May 2025, where I aim to deepen my knowledge
-      in data science and machine learning.
-      <br /><br />
-      With a diverse professional background that includes leadership roles in
-      consulting and entrepreneurial ventures, I am prepared to contribute as a
-      full stack developer or senior project/program manager while remaining
-      open to opportunities in data science or machine learning engineering. I am
-      excited to tackle complex business challenges where I can combine my
-      technical skills, analytical mindset, and strategic experience to deliver
-      impactful solutions.
+      , I’ve continued my relentless drive for problem-solving, continuous
+      growth, and delivering innovative solutions that make an impact. With my
+      diverse professional background and technical expertise, I am fully
+      prepared to contribute my expertise as a senior project/program manager and as a full stack developer to tackle complex business challenges.
     </span>
   ),
   resume:

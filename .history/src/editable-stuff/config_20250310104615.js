@@ -80,7 +80,7 @@ const about = {
       by my admission to UC Berkeley’s Master of Information and Data Science
       (MIDS) program, beginning in May 2025, where I aim to deepen my knowledge
       in data science and machine learning.
-      <br /><br />
+      <br />
       With a diverse professional background that includes leadership roles in
       consulting and entrepreneurial ventures, I am prepared to contribute as a
       full stack developer or senior project/program manager while remaining

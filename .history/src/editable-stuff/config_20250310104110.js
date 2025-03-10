@@ -80,11 +80,11 @@ const about = {
       by my admission to UC Berkeley’s Master of Information and Data Science
       (MIDS) program, beginning in May 2025, where I aim to deepen my knowledge
       in data science and machine learning.
-      <br /><br />
-      With a diverse professional background that includes leadership roles in
-      consulting and entrepreneurial ventures, I am prepared to contribute as a
-      full stack developer or senior project/program manager while remaining
-      open to opportunities in data science or machine learning engineering. I am
+      With a diverse professional
+      background that includes leadership roles in consulting and
+      entrepreneurial ventures, I am prepared to contribute as a full stack
+      developer or senior project/program manager while remaining open to
+      opportunities in data science or machine learning engineering. I am
       excited to tackle complex business challenges where I can combine my
       technical skills, analytical mindset, and strategic experience to deliver
       impactful solutions.
