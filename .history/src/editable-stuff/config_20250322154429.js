@@ -87,11 +87,13 @@ const about = {
       Master of Information and Data Science (MIDS) program in May 2025.
       <br />
       <br />
-      I'm excited to leverage my diverse background to tackle complex
-      challenges, foster innovation, and deliver impactful solutions in software
-      engineering, data science, and machine learning. I'm always open to
-      collaboration and new opportunities at the intersection of technology and
-      data.
+      With a diverse professional background that includes leadership roles in
+      consulting and entrepreneurial ventures, I am prepared to contribute as a
+      full stack developer or senior project/program manager while remaining
+      open to opportunities in data science or machine learning engineering. I
+      am excited to tackle complex business challenges where I can combine my
+      technical skills, analytical mindset, and strategic experience to deliver
+      impactful solutions.
     </span>
   ),
   resume:

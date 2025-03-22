@@ -63,9 +63,8 @@ const about = {
       initiatives. Over my career, I’ve held leadership roles—from serving as a
       Director of Consulting at Citisoft to founding my own real estate
       wholesale company—thriving at the intersection of engineering, strategy,
-      and execution. <br />
-      <br />
-      After completing{" "}
+      and execution. <br /></br />
+    Having recently completed{ " "}
       <a
         href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f"
         target="_blank"
@@ -81,17 +80,20 @@ const about = {
       >
         Harvard's CS50 - Introduction to Computer Science
       </a>
-      , I've built a solid foundation in software development and
-      object-oriented programming. Today, I'm actively expanding my expertise in
-      AI-driven solutions and data science as I prepare to begin UC Berkeley’s
-      Master of Information and Data Science (MIDS) program in May 2025.
+      , I’ve built a solid foundation in software development while continuously
+      expanding my technical expertise. My journey in tech is further enriched
+      by my admission to UC Berkeley’s Master of Information and Data Science
+      (MIDS) program, beginning in May 2025, where I aim to deepen my knowledge
+      in data science and machine learning.
       <br />
       <br />
-      I'm excited to leverage my diverse background to tackle complex
-      challenges, foster innovation, and deliver impactful solutions in software
-      engineering, data science, and machine learning. I'm always open to
-      collaboration and new opportunities at the intersection of technology and
-      data.
+      With a diverse professional background that includes leadership roles in
+      consulting and entrepreneurial ventures, I am prepared to contribute as a
+      full stack developer or senior project/program manager while remaining
+      open to opportunities in data science or machine learning engineering. I
+      am excited to tackle complex business challenges where I can combine my
+      technical skills, analytical mindset, and strategic experience to deliver
+      impactful solutions.
     </span>
   ),
   resume:
