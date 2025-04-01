@@ -81,7 +81,7 @@ const about = {
       >
         Harvard's CS50 - Introduction to Computer Science
       </a>
-      , I've built a strong foundation in software engineering and
+      , I've built a strong foundation in software development and
       object-oriented programming. Today, I'm actively expanding my expertise in
       AI-driven solutions and data science as I prepare to begin UC Berkeley’s
       Master of Information and Data Science (MIDS) program in May 2025.

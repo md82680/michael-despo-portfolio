@@ -57,7 +57,7 @@ const about = {
   imageSize: 375,
   message: (
     <span>
-      I'm Michael Despo, a machine learning engineer and data
+      I'm Michael Despo, a machine learning engineer and data scientist, full-stack developer, and seasoned program/project manager with
       scientist, full-stack developer, and seasoned program/project manager with
       a passion for building scalable solutions and driving transformative tech
       initiatives. Over my career, I’ve held leadership roles—from serving as a
@@ -81,7 +81,7 @@ const about = {
       >
         Harvard's CS50 - Introduction to Computer Science
       </a>
-      , I've built a strong foundation in software engineering and
+      , I've built a solid foundation in software development and
       object-oriented programming. Today, I'm actively expanding my expertise in
       AI-driven solutions and data science as I prepare to begin UC Berkeley’s
       Master of Information and Data Science (MIDS) program in May 2025.
