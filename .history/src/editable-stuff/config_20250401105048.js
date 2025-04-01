@@ -150,6 +150,7 @@ const skills = {
     { name: "Node.js", value: 20 },
     { name: "Express", value: 35 },
     { name: "Next.js", value: 40 },
+    { name: "MongoDB", value: 20 },
     { name: "PostgreSQL", value: 35 },
     { name: "SQL", value: 40 },
     { name: "Git", value: 50 },
@@ -174,7 +175,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm actively seeking roles as a machine learning engineer and data scientist. Feel free to reach out if you have opportunities, questions, or just want to connect at",
+    "I'm actively seeking a full-time Software Engineering role but am open to internships. Feel free to reach out if you have opportunities, questions, or just want to connect at",
   email: "mdespo@gmail.com",
 };
 

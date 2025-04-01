@@ -174,7 +174,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm actively seeking roles as a machine learning engineer and data scientist. Feel free to reach out if you have opportunities, questions, or just want to connect at",
+    "I'm actively seeking a full-time Software Engineering role but am open to internships. Feel free to reach out if you have opportunities, questions, or just want to connect at",
   email: "mdespo@gmail.com",
 };
 

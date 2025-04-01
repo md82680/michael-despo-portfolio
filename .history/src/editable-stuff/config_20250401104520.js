@@ -140,21 +140,19 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Machine Learning", value: 50 },
-    { name: "Deep Learning", value: 45 },
-    { name: "TensorFlow", value: 30 },
-    { name: "PyTorch", value: 30 },
-    { name: "Python", value: 65 },
     { name: "JavaScript", value: 55 },
+    { name: "Python", value: 65 },
     { name: "React", value: 45 },
+    { name: "HTML/CSS", value: 45 },
     { name: "Node.js", value: 20 },
     { name: "Express", value: 35 },
     { name: "Next.js", value: 40 },
+    { name: "MongoDB", value: 20 },
     { name: "PostgreSQL", value: 35 },
     { name: "SQL", value: 40 },
     { name: "Git", value: 50 },
     { name: "Vercel", value: 40 },
-    { name: "Jupyter Notebook", value: 60 },
+    { name: }
     { name: "Data Structures and Algorithms", value: 55 },
   ],
   softSkills: [
@@ -174,7 +172,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm actively seeking roles as a machine learning engineer and data scientist. Feel free to reach out if you have opportunities, questions, or just want to connect at",
+    "I'm actively seeking a full-time Software Engineering role but am open to internships. Feel free to reach out if you have opportunities, questions, or just want to connect at",
   email: "mdespo@gmail.com",
 };
 
