@@ -144,7 +144,6 @@ const skills = {
     { name: "Deep Learning", value: 45 },
     { name: "Python", value: 65 },
     { name: "JavaScript", value: 55 },
-    { name: "Jupyter Notebook", value: 60 },
     { name: "NumPy", value: 55 },
     { name: "Pandas", value: 55 },
     { name: "Scikit-Learn", value: 50 },
@@ -153,8 +152,8 @@ const skills = {
     { name: "PostgreSQL", value: 35 },
     { name: "SQLite", value: 40 },
     { name: "Git", value: 50 },
-    { name: "CI/CD", value: 40 },
     { name: "Vercel", value: 40 },
+
     { name: "Data Structures and Algorithms", value: 55 },
   ],
   softSkills: [

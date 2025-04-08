@@ -153,7 +153,7 @@ const skills = {
     { name: "PostgreSQL", value: 35 },
     { name: "SQLite", value: 40 },
     { name: "Git", value: 50 },
-    { name: "CI/CD", value: 40 },
+    { name: "Docker", value: 40 },
     { name: "Vercel", value: 40 },
     { name: "Data Structures and Algorithms", value: 55 },
   ],
