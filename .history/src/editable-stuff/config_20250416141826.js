@@ -155,9 +155,9 @@ const skills = {
     { name: "Git", value: 50 },
     { name: "CI/CD", value: 40 },
     { name: "Vercel", value: 40 },
-    { name: "Kubernetes", value: 20 },
-    { name: "Docker", value: 35 },
-    { name: "Google Cloud", value: 20 },
+    { name: "Data Structures and Algorithms", value: 55 },
+    { name: "Docker", value: 40 },
+    { name: "Google Cloud", value: 40 },
   ],
   softSkills: [
     { name: "Project Management", value: 95 },
