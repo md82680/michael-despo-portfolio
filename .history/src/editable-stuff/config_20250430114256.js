@@ -57,7 +57,7 @@ const about = {
   imageSize: 375,
   message: (
     <span>
-      I'm Michael Despo, a Machine Learning Engineer and technology leader with
+      I'm Michael Despo, a Machine Learning Engineer with NexGenAI and technology leader with
       a background in full-stack development (MIT MERN Program) and
       object-oriented programming (Python, JavaScript). Currently pursuing an MS
       in Computer Science at the University of Colorado Boulder, with a focus on

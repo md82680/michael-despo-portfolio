@@ -149,7 +149,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm actively seeking roles as a machine learning/ artificial intelligence engineer. Feel free to reach out if you have opportunities, questions, or just want to connect at",
+    "I'm actively seeking roles as a machine learning/engineer. Feel free to reach out if you have opportunities, questions, or just want to connect at",
   email: "mdespo@gmail.com",
 };
 

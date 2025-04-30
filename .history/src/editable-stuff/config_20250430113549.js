@@ -57,41 +57,14 @@ const about = {
   imageSize: 375,
   message: (
     <span>
-      I'm Michael Despo, an aspiring machine learning engineer and data
-      scientist, full-stack developer, and seasoned program/project manager with
-      a passion for building scalable solutions and driving transformative tech
-      initiatives. Over my career, I’ve held leadership roles—from serving as a
-      Director of Consulting at Citisoft to founding my own real estate
-      wholesale company—thriving at the intersection of engineering, strategy,
-      and execution. <br />
-      <br />
-      After completing{" "}
-      <a
-        href="https://certificates.emeritus.org/ec7ef13e-f301-43e9-9841-28ceb86f1e96#gs.fm2r3f"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        MIT's Professional Full Stack Development with MERN
-      </a>{" "}
-      program and{" "}
-      <a
-        href="https://courses.edx.org/certificates/01e35ba2c4db4c43b80ec361453012e6"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Harvard's CS50 - Introduction to Computer Science
-      </a>
-      , I've built a solid foundation in software development and
-      object-oriented programming. Today, I'm actively expanding my expertise in
-      AI-driven solutions and data science as I prepare to begin UC Berkeley’s
-      Master of Information and Data Science (MIDS) program in May 2025.
-      <br />
-      <br />
-      I'm excited to leverage my diverse background to tackle complex
-      challenges, foster innovation, and deliver impactful solutions in software
-      engineering, data science, and machine learning. I'm always open to
-      collaboration and new opportunities at the intersection of technology and
-      data.
+      I'm Michael Despo, a Machine Learning Engineer and technology leader with
+      a background in full-stack development (MIT MERN Program) and
+      object-oriented programming (Python, JavaScript). Currently pursuing an MS
+      in Computer Science at the University of Colorado Boulder, with a focus on
+      scalable, AI-driven solutions that enhance decision-making, drive growth,
+      and optimize costs. Former Director at Citisoft and founder of a real
+      estate company—thriving at the intersection of engineering, product
+      strategy, and business execution.
     </span>
   ),
   resume:
@@ -140,22 +113,24 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "JavaScript", value: 55 },
+    { name: "Machine Learning", value: 50 },
+    { name: "Deep Learning", value: 45 },
     { name: "Python", value: 65 },
-    { name: "React", value: 45 },
-    { name: "C", value: 28 },
-    { name: "HTML/CSS", value: 45 },
-    { name: "Tailwind", value: 20 },
-    { name: "Bootstrap", value: 20 },
-    { name: "Node.js", value: 20 },
-    { name: "Express", value: 35 },
-    { name: "Next.js", value: 40 },
-    { name: "MongoDB", value: 20 },
+    { name: "JavaScript", value: 55 },
+    { name: "Jupyter Notebook", value: 60 },
+    { name: "NumPy", value: 55 },
+    { name: "Pandas", value: 55 },
+    { name: "Scikit-Learn", value: 50 },
+    { name: "TensorFlow", value: 30 },
+    { name: "PyTorch", value: 30 },
     { name: "PostgreSQL", value: 35 },
-    { name: "SQL", value: 40 },
+    { name: "SQLite", value: 40 },
     { name: "Git", value: 50 },
+    { name: "CI/CD", value: 40 },
     { name: "Vercel", value: 40 },
-    { name: "Data Structures and Algorithms", value: 55 },
+    { name: "Kubernetes", value: 20 },
+    { name: "Docker", value: 35 },
+    { name: "Google Cloud", value: 20 },
   ],
   softSkills: [
     { name: "Project Management", value: 95 },
@@ -174,7 +149,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm actively seeking a full-time Software Engineering role but am open to internships. Feel free to reach out if you have opportunities, questions, or just want to connect at",
+    "I'm actively seeking roles as a machine learning engineer and data scientist. Feel free to reach out if you have opportunities, questions, or just want to connect at",
   email: "mdespo@gmail.com",
 };
 
